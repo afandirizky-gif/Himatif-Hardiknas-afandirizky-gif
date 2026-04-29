@@ -308,7 +308,7 @@ const FooterSection = () => (
           </p>
         </div>
         <div className="space-y-3">
-          <h4 className="font-bold text-lg text-foreground">Taman Siswa</h4>
+          <h4 className="font-bold text-lg text-foreground">Rizky Afandi</h4>
           <p className="text-foreground/60 text-sm leading-relaxed">
             Founded in 1922, continues operating schools throughout Indonesia with over 100 years of educational excellence and commitment to accessible, culturally-grounded learning.
           </p>
@@ -316,16 +316,16 @@ const FooterSection = () => (
         <div className="space-y-3">
           <h4 className="font-bold text-lg text-foreground">Learn More</h4>
           <ul className="text-foreground/60 text-sm space-y-2">
-            <li><a href="#" className="hover:text-primary transition-colors">Taman Siswa Official Website</a></li>
-            <li><a href="#" className="hover:text-primary transition-colors">UNESCO Recognition</a></li>
-            <li><a href="#" className="hover:text-primary transition-colors">Educational Resources</a></li>
+            <li><a href="#" className="hover:text-primary transition-colors">Rizky Afandi Official Website</a></li>
+            <li><a href="#" className="hover:text-primary transition-colors">Instagram@kik.i118</a></li>
+            <li><a href="#" className="hover:text-primary transition-colors">https://github.com/afandirizky-gif</a></li>
           </ul>
         </div>
       </div>
 
       <div className="border-t border-border pt-8">
         <p className="text-center text-foreground/50 text-sm">
-          © 2024 Tribute to Ki Hajar Dewantara. Dedicated to progressive education and cultural heritage.
+          © 2026 Tribute to Ki Hajar Dewantara. Dedicated to progressive education and cultural heritage.
         </p>
       </div>
     </div>
